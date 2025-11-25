@@ -1,6 +1,5 @@
 .navbar {
-    background-color: #D3D3D3;   
-   padding: 10px;               
+                
 }
 
 .navbar ul {
@@ -10,6 +9,12 @@
 }
 
 .navbar li {
-    display: inline;             
+    display:inline; 
     margin-right: 1rem;         
+}
+.container {
+    width: 100%;
+
+	 background-color:rgb(211, 211, 211);   
+   padding: 10px;  
 }
